@@ -154,6 +154,12 @@
                                     <shadedClassifierName>complete</shadedClassifierName>
                                     <filters>
                                         <filter>
+                                            <artifact>org.antlr:antlr4</artifact>
+                                            <includes>
+                                                <include>org/antlr/v4/**</include>
+                                            </includes>
+                                        </filter>
+                                        <filter>
                                             <artifact>org.antlr:antlr4-runtime</artifact>
                                             <includes>
                                                 <include>org/antlr/v4/runtime/**</include>
