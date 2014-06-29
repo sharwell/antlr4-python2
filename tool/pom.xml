@@ -10,7 +10,7 @@
 
     <groupId>org.antlr</groupId>
     <artifactId>antlr4-python2</artifactId>
-    <version>4.3-SNAPSHOT</version>
+    <version>4.4-SNAPSHOT</version>
 
     <name>ANTLR 4 Python 2 Target</name>
     <description>The Python 2 Target for ANTLR 4.</description>
