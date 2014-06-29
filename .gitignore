@@ -3,3 +3,10 @@
 __pycache__
 src/TestAntLR.py
 /dist
+
+# NetBeans configuration files
+nbactions.xml
+nb-configuration.xml
+
+# Maven build output
+/tool/target/
