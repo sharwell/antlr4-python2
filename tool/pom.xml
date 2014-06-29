@@ -10,7 +10,7 @@
 
     <groupId>org.antlr</groupId>
     <artifactId>antlr4-python2</artifactId>
-    <version>4.3</version>
+    <version>4.4-SNAPSHOT</version>
 
     <name>ANTLR 4 Python 2 Target</name>
     <description>The Python 2 Target for ANTLR 4.</description>
@@ -83,7 +83,7 @@
         <url>https://github.com/antlr/antlr4-python2/tree/master</url>
         <connection>scm:git:git://github.com/antlr/antlr4-python2.git</connection>
         <developerConnection>scm:git:git@github.com:antlr/antlr4-python2.git</developerConnection>
-        <tag>4.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
